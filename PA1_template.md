@@ -133,7 +133,7 @@ ggplot(data = mean.st.p.int) +
              x="Interval", y="Average number of steps")
 ```
 
-![](figure/3.1 mean per interval and time series-1.png)<!-- -->
+![](https://github.com/sekR4/RepData_PeerAssessment1/blob/master/figure/3.1%20mean%20per%20interval%20and%20time%20series-1.png?raw=true)<!-- -->
 
 
 ```r
@@ -225,7 +225,7 @@ ggplot(data = st.p.day.sim) +
              x="Number of steps per day", y="Count")
 ```
 
-![](figure/4.4. histogram-1.png)<!-- -->
+![](https://github.com/sekR4/RepData_PeerAssessment1/blob/master/figure/4.4.%20histogram-1.png?raw=true)<!-- -->
 
 
 ```r
@@ -285,7 +285,7 @@ with (panel.dta,
              layout=c(1,2)))
 ```
 
-![](figure/5.2 time series plot-1.png)<!-- -->
+![](https://github.com/sekR4/RepData_PeerAssessment1/blob/master/figure/5.2%20time%20series%20plot-1.png?raw=true<!-- -->
 
 This graph shows several peaks of steps taken throughout the weekend days. Whereas 
 weekdays only show one peak at half past nine (835) in the morning.
