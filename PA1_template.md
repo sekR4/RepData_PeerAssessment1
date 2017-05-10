@@ -285,7 +285,7 @@ with (panel.dta,
              layout=c(1,2)))
 ```
 
-![](https://github.com/sekR4/RepData_PeerAssessment1/blob/master/figure/5.2%20time%20series%20plot-1.png?raw=true<!-- -->
+![](https://github.com/sekR4/RepData_PeerAssessment1/blob/master/figure/5.2%20time%20series%20plot-1.png?raw=true)<!-- -->
 
 This graph shows several peaks of steps taken throughout the weekend days. Whereas 
 weekdays only show one peak at half past nine (835) in the morning.
