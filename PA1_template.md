@@ -96,7 +96,7 @@ ggplot(data = st.p.day) +
              x="Number of steps per day", y="Count")
 ```
 
-![](2.2. Histogram steps per day-1.png)<!-- -->
+![](https://github.com/sekR4/RepData_PeerAssessment1/blob/master/figure/2.2.%20Histogram%20steps%20per%20day-1.png?raw=true)<!-- -->
 
 
 ```r
